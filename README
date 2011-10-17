@@ -1,0 +1,19 @@
+# unflickr
+
+unflickr is a command line program to backup Flickr metadata and photos.
+
+Based on Offlickr2 <https://github.com/hugoh/Offlickr2>
+
+## Installation / upgrade
+
+ sudo easy_install -U unflickr
+
+## Usage
+
+ unflickr -i <username>
+
+## FAQ
+
+Q: Why a fork?
+
+A: Because Python > PHP.

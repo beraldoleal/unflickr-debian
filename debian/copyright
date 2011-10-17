@@ -1,0 +1,18 @@
+Format: http://dep.debian.net/deps/dep5/
+Upstream-Name: Beraldo Leal
+Source: https://github.com/l0b0/unflickr
+
+Files: *
+Copyright: Copyright 2010-2011 Beraldo Leal <beraldo@beraldoleal.com>
+           Copyright 2010-2011 Daniel Drucker <dmd@3e.org>
+           Copyright 2010-2011 Hugo Haas <hugo@larve.net>
+           Copyright 2010-2011 Victor Engmark <victor.engmark@gmail.com>
+License: GPL-2
+ /usr/share/common-licenses/GPL-2
+
+Files: debian/*
+Copyright: Copyright 2011 Beraldo Leal <beraldo@beraldoleal.com>
+License: GPL-2
+ /usr/share/common-licenses/GPL-2
+
+

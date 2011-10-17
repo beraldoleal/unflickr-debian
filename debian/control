@@ -1,0 +1,17 @@
+Source: unflickr
+Section: utils
+Priority: optional
+Maintainer: Beraldo Leal <beraldo@beraldoleal.com>
+Build-Depends-Indep: debhelper (>= 6.0.7~), help2man
+Standards-Version: 3.9.2
+
+Package: unflickr
+Architecture: all
+Depends: python
+Description: Simple tool to perform a backup of your photos in flickr
+ unflickr is a simple python script which make a locals copy of all your
+ pictures hosted in flickr.com.
+ .
+ It downloads the pictures and organize them using your set names. unflickr
+ is also able to store metada from your photos in a XML file.
+
